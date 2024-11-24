@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\kys\kys\bin\Debug\net8.0\student Project.exe
+C:\Users\User\source\repos\kys\kys\bin\Debug\net8.0\student Project.deps.json
+C:\Users\User\source\repos\kys\kys\bin\Debug\net8.0\student Project.runtimeconfig.json
+C:\Users\User\source\repos\kys\kys\bin\Debug\net8.0\student Project.dll
+C:\Users\User\source\repos\kys\kys\bin\Debug\net8.0\student Project.pdb
+C:\Users\User\source\repos\kys\kys\obj\Debug\net8.0\student Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\kys\kys\obj\Debug\net8.0\student Project.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\kys\kys\obj\Debug\net8.0\student Project.AssemblyInfo.cs
+C:\Users\User\source\repos\kys\kys\obj\Debug\net8.0\student Project.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\kys\kys\obj\Debug\net8.0\student Project.dll
+C:\Users\User\source\repos\kys\kys\obj\Debug\net8.0\refint\student Project.dll
+C:\Users\User\source\repos\kys\kys\obj\Debug\net8.0\student Project.pdb
+C:\Users\User\source\repos\kys\kys\obj\Debug\net8.0\student Project.genruntimeconfig.cache
+C:\Users\User\source\repos\kys\kys\obj\Debug\net8.0\ref\student Project.dll
